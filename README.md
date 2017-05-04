@@ -1,5 +1,8 @@
 # Final-Documentation
 ![200w_d](https://cloud.githubusercontent.com/assets/25276044/25725959/e324fa62-30d6-11e7-911d-f9adc68008c6.gif)
+ 
+ My idea was to create an argumetn equilizer. If two people are starting to raise their voice, this device would light up and notify that the volume was getting to high for comfortablility. 
+ 
  In the beginning, I got a microphone that detects sound called Max 1904. Then, I checked the functionality of it by going on Adafruit and found a code that measured sound levels.
  
  const int sampleWindow = 50; // Sample window width in mS (50 mS = 20Hz)
